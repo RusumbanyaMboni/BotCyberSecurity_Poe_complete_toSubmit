@@ -8,7 +8,7 @@ namespace CyberSecurityBotGUI
         private static List<QuizQuestion> questions = new List<QuizQuestion>()
         {
             new QuizQuestion(
-                "What should you do if you receive an email asking for your password?",
+                "What should you do if you receive an email asking for your password??",
                 new string[] { "A) Reply with your password", "B) Delete the email", "C) Report it as phishing", "D) Ignore it" },
                 "c",
                 "You should report suspicious emails as phishing because legitimate companies will not ask for your password by email."
