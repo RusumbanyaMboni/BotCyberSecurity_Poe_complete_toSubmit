@@ -220,7 +220,7 @@ namespace CyberSecurityBotGUI
 
             if (input.Contains("who created you") || input.Contains("who built you") || input.Contains("who is your creator"))
             {
-                return "I was created by DIEUME MBONI.";
+                return "I was created by DIEUME MBONI.The GENIUS";
             }
 
             if (input.Contains("how are you") || input.Contains("how are you doing") || input.Contains("are you okay"))
