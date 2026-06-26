@@ -2,7 +2,7 @@
 
 ## Project Description
 
-This project is a C# Windows Forms Cybersecurity Awareness Chatbot developed for a programming assignment. The chatbot helps users learn about important cybersecurity topics such as passwords, phishing, scams, privacy, malware, firewalls, and online safety.
+This project is a C# Windows Forms Cybersecurity Awareness Chatbot developed for a programming. The chatbot helps users learn about important cybersecurity topics such as passwords, phishing, scams, privacy, malware, firewalls, and online safety.
 
 The application includes a graphical user interface, chatbot responses, NLP-style keyword detection, a task assistant with reminders, MySQL database storage, a cybersecurity quiz mini-game, sentiment detection, and an activity log feature.
 
