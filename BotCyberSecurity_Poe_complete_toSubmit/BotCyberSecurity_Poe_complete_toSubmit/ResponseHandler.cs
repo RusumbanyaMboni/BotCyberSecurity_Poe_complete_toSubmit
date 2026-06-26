@@ -85,7 +85,7 @@ namespace CyberSecurityBotGUI
                 "default", new List<string>
                 {
                     "I can help you with cybersecurity topics like passwords, phishing, scams, privacy, malware, and firewalls.",
-                    "Feel free to ask me about any cybersecurity topic you're interested in!",
+                    "Feel free to ask me about any cybersecurity topic you're interested in!!!",
                     "Remember, staying safe online is important. Let me know if you have any questions about cybersecurity."
                 }
             }
